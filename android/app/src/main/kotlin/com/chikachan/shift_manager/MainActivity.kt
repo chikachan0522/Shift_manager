@@ -1,0 +1,6 @@
+package com.chikachan.shift_manager
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
